@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: PKI Enhancement - EJBCA System Application for Enterprise Certificate Management
 author: Andy Ning
-date: 2026-11-10T01:00:00.000Z
+date: 2026-12-01T01:00:00.000Z
 category:
   - label: Features & Updates
     id: category-A7fnZYrE1
